@@ -1,0 +1,9 @@
+Generate the cover using "December 2012 Online.png" for online version and "December 2012 Print.png" -Pub version.
+
+Ensure if one cover is updated, the other is overwritten and relinked to the other bar code.
+
+Image Box
+X-Pos:10mm
+Y-Pos:265.833mm
+Width:34mm
+Height:21.167mm

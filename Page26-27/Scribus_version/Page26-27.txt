@@ -1,0 +1,49 @@
+The WHILE LOOP continues until a certain criteria is met. In this program the number (n) starts off as zero. It keeps increasing by 1 for as long as the number is less than or equal to the value of ten ( <= 10).
+
+# COUNTING WITH WHILE LOOPS
+# By Jaseman - 24th April 2012
+n=0 while n <= 10:
+print (n) n += 1
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+There are some situations where WHILE LOOPS are more suitable than FOR LOOPS - Usually in less predictable circumstances.
+
+To achieve the incremental steps in the counting, change the n += 1 to a higher number. Counting in reverse could be done like this: n=10 while n >= 0:
+print (n) n -= 1
+
+# LOTTERY NUMBERS # By Jaseman - 24th April 2012
+import random
+for n in range(1,6+1): # We want six random numbers
+  print (random.randint(1,100)) # Picks a number between 1 and 100
+
+We have to import the 'random' library to help Python to generate random numbers. The program makes use of a FOR LOOP so that the print command repeats six times.
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+If you want more random numbers - change the 6 to a higher number.
+
+You could also change the range in the 'random.randint( , )' if you don't want it between 1 - 100
+
+This time, the WHILE LOOP keeps generating random numbers until it finds a number '13'. The operator '!=" means 'not equal to', in other words keep looping while it's any number but thirteen.
+
+# BINGO!
+# By Jaseman - 24th April 2012
+import random n =0
+while n != 13: # Keep looping till you get thirteen
+  n = random.randint(1,100)
+  print (n)
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+Earlier we saw how words can be stored as string variables. This program creates something called a 'STRING ARRAY', which is a list of separate words stored in variables. Each word is allocated a number starting from zero, so the word 'I' is mytext[0], 'Love' is mytext[1], 'My' is mytext[2] and so on.
+
+# STRING ARRAYS
+# By Jaseman - 24th April 2012
+mytext = ["I", "Love", "My","Raspberry","Pi"]
+for n in range(0,5):
+  print (mytext[n])
+print()
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+(continued over page...)

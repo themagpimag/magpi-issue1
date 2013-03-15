@@ -1,0 +1,48 @@
+A step-by-step guide to creating a virtual machine of the 'Debian Linux' operating system to run on your Windows PC.
+
+An 'Operating System' (OS) is a set of instructions that help a computer to understand how to control the connected hardware devices.
+The 'Boot Sequence' is a list of events that begins when you power up your computer.
+A state of readiness is usually indicated when all the screen activity has stopped and you are confronted with a logon prompt or graphical user interface (GUI). In this example the GUI is called 'LXDE' - Lightweight X11 Desktop Environment.
+
+Creating the Virtual Machine
+1. Start Oracle VM VirtualBox
+
+2. Click 'New' 3. Click 'Next' to start the 'New Virtual Machine Wizard'
+
+4. Name: Debian O.S.: Linux Version: Debian
+
+5. Memory: 256 MB
+
+Whilst waiting for your Raspberry Pi, why not try
+the Linux Debian OS?
+Download the Debian LiveCD ISO file:
+For Intel Processors (770 MB): For AMD Processors (770 MB):
+http://goo.gl/cOLBP http://goo.gl/xPXvs
+Then download and install Oracle VM VirtualBox:
+Use 'Windows Hosts' Version (92 MB):	http://goo.gl/gLmjf
+
+6. Untick Start-up Disk.
+
+7. Click 'Continue' at the warning
+
+8. Click 'Create'
+
+9. In the right hand column of the VirtualBox Manager, click on the word 'Storage'
+
+10. Under IDE Controller, click on the CD icon (Empty)
+
+11. Tick Live CD/DVD and click the CD icon next to 'CD/DVD Drive:' (Under Attributes)
+
+12. Click 'Choose a Virtual CD/DVD disk file...'
+
+13. Browse for the downloaded Debian .iso file and click 'Open'
+
+14. Click OK to leave the Settings screen.
+
+15. Click 'Start' to boot the virtual machine
+
+16. Press ENTER to choose 'Live' option
+
+Wait a moment while Debian boots into the LXDE graphical interface. More to follow in issue 2.
+
+Article by Jaseman

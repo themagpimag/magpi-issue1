@@ -1,0 +1,16 @@
+Page	Article
+1	Cover
+2	Editorial
+3	Fresh Fruit & Contents
+4	Affordable Computing
+5	The Fall Of Programming
+6	The Pioneers
+9	Hardware Development
+10	Skutter
+12	RacyPy Live CD & Virtual Machine
+16	Debian VirtualBox
+18	Programming
+20	The Scratch Patch
+23	The Python Pit
+30	Feedback
+32	Web Links & Credits

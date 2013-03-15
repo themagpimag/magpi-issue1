@@ -1,0 +1,168 @@
+Printing Preperation???:
+Ian!
+Isa
+Simon
+Alan
+Sam Marshall
+Josh
+Colin Norris
+Mark Robson
+Steve Drew
+
+
+
+Current Errata (updated by Meltwater 19-02-13):
+
+Page 6-8:
+Make improvements to text layout if possible, to better group paragraphs/lines etc if possible.
+Remove "due to the"
+Broadcom logo needs to be made lighter so it can sit behind the text.
+Capital L for Linux? x2
+
+Page 12:
+If we have web-server space, can we put the RacyPy2_1.iso onto it (at the moment it is located within our public dropbox).
+There is also an updated version here RacyPy4: http://db.tt/K8qiNwN5
+
+
+Page 22+:
+Extra page here.
+
+Page 23-29:
+The description font is a little small, I guess using narrow font. There should be room here to use normal font without too much issue.
+
+Page 30:
+Credit: Image from photofunia.com
+
+Page 31:
+Page 32:
+Logo (and Raspberry) has gone AWOL.
+Extra credits need to be resolved.
+
+ITEMS DONE:
+
+Page 16-17:
+DONE 19/2/13 - Ian
+
+
+DONE 19/2/13 Meltwater - Page 9:
+Use a lighter colour green for the top paragraph
+Are fonts different on middle and bottom paragraph?
+
+DONE 19/2/13 Meltwater - Page 12:
+CD Image needs replacing (will try to supply one) - Image is probably too dark too.
+-Page 12 duplicated
+
+DONE 19/2/13 Meltwater - Page 14:
+-VMPlayer Tips - box needs to have lighter background (match with box on Page 13).
+Page 15:
+Optional Pets Box - Background needs to be darker or headings text made lighter.
+
+
+DONE 19/2/13 Meltwater - Page 18-19:
+It seems we are removing the "The MagPi Issue 01 MAY 2012" text in the other articles, so best remove it here too.
+JAVA LOGO!!!! We need the java script logo here. - Get this from Issue 2!
+I assume we should be fine using the logos, but we may be best putting, "All logos and trademarks remain the property of their respective owners." or similar.  We shouldn't need permission to use them since they are simply listed as avaiable options, it should be clear that we are talking about multiple external sources.
+
+
+
+
+
+
+
+
+
+Previous Errata (some are done some are repeated above):
+
+Page :
+Fix the JavaScript logo.
+
+Use the current MagPi logo.
+DONE
+
+page 5:
+
+p2	Adjust margins on "Daley Thompson" picture.
+DONE
+
+
+
+page 6:
+
+p1	remove "due to the"
+
+page 7:
+
+p2	Broadcom logo should be either behind text or in a box of its own. Not both.
+p4	Capital L for Linux? x2
+
+page 8:
+caption for 2nd picture needs correcting???? What is wrong with it???
+
+page 9:
+publishing borders remain on the pdf file
+green on blue not entirely readable
+Green on blue not consistent with other paras
+
+page 10:
+page number screwed up
+
+p1	remove first "which" in sentence 2
+
+p4	remove icons, as they don't correlate to each program (confusing)
+remove "plus many other useful utilities"
+
+page 11:
+page number screwed up
+artifacts in picture compression, text harder to read
+
+page 12:
+unreadable. looks like both previous pages slapped on top of each other.
+
+page 13:
+p8:	"example" spelling correction
+
+page 14:
+page number 18?
+publishing borders again
+columns need "justify" alignment
+
+page 15:
+page number 19?
+publishing borders again
+columns need "justify" alignment
+
+p4	 double full-stop at the end
+
+page 16:
+page number 20?
+publishing borders again
+columns need "justify" alignment
+Love the layout! (I can be positive, too!)
+
+page 17:
+page number 21?
+publishing borders again
+columns need "justify" alignment
+
+p5	text a little too close to picture
+
+page 18
+page number 22?
+publishing borders again
+columns need "justify" alignment
+
+page 19
+page number 21 again?
+publishing borders again
+
+page 20
+page number 30?
+publishing borders again
+I think left justification is ok in this case as they are all quotations
+
+page 21
+publishing borders again
+
+page 22
+"insert additional names here" and "additional duties" in red, should be changed.
+publishing borders again

@@ -1,0 +1,37 @@
+Assignment
+==========
+
+Page06-08 - Sam
+Page09 - Simon - PDF Done and Uploaded to Dropbox
+Page10-11 - Will
+Page12-15 - Simon (Meltwater)
+Page16-17 - Will
+Page18-19 - Simon - PDFs done and uploaded to Dropbox
+Page20-22 - Simon - PDFs done and uploaded to Dropbox - New Scratch Patch Format. Templated added to Dropbox also.
+Page23-29 - Will
+Page30-31 - Simon - PDFs done and uploaded to Dropbox
+Page32 - Simon
+
+Currently not allocated
+=======================
+Colin
+Edrick
+Ian
+Lix
+
+----
+
+Starting point (1st Dec.)
+==============
+Page01 - Scribus format available, needs pdf conversion
+Page02-03 - Scribus format available, needs pdf conversion
+Page04-05 - Scribus format available, needs pdf conversion
+Page06-08 - No scribus files, no text files.
+Page09 - No scribus files, not text files.
+Page10-11 - No scribus files, no text files.
+Page12-15 - Scribus format available, needs pdf conversion
+Page16-17 - No scribus files, no text files.
+Page18-19 - No scribus files, no text files.
+Page20-22 - No scribus files, remake using current Scratch scribus templates.
+Page23-29 - No scribus files, remake using current Python pit scribus templates.
+Page30-31 - No scribus files, no text files.

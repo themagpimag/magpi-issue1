@@ -1,0 +1,54 @@
+In this example we use the 'INT( )' function to remove the decimal places in the answer. The number is rounded to the nearest whole number. INT is short for Integer - Another word for whole number.
+
+# SPARE ME THE DETAILS
+# By Jaseman - 24th April 2012
+print ("Seven divided by three is",7/3); print () print ("Seven divided by three is roughly",int(7/3)); print()
+print ("Five divided by two is",5/2); print ()
+print ("Five divided by two is roughly",int(5/2)); print()
+
+Some Python commands only accept whole numbers (For example when referring to color values). Use 'INT( )' if you need to ensure that your result has no decimal places.
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+Using variables, we can get our program to remember numbers and words that it can use later on. You may remember doing this sort of thing in school.
+
+# ALGEBRA # By Jaseman - 24th April 2012
+a =3
+b =7
+c =4
+print ("A is equal to",a); print ()
+print ("B is equal to",b); print()
+print ("C is equal to",c); print ()
+print ("A plus B equals",a+b); print()
+print ("A plus B plus C equals",a+b+c); print()
+print ("A plus B minus C equals",a+b-c); print()
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+As well as numbers, variables can be words. We call these 'strings' because they are a string of alphanumeric characters strung (or grouped) together.
+
+# STRINGS OF WORDS
+# By Jaseman - 24th April 2012
+a = "If you"
+b = "notice"
+c = "this"
+d = "you will"
+e = "is not worth"
+f = "noticing!"
+print (a,b,c,b,d,b,c,b,e,f); print ()
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+In Python there are many ways of counting. In this example we use a 'FOR LOOP'. The number (n) starts at zero and increases to 10. Note: We have to add a +1 onto the end otherwise the loop will stop at number 9. Try changing the number 10 in the program and run it again to see the results.
+
+# COUNTING WITH FOR LOOPS
+# By Jaseman - 24th April 2012
+for n in range(0,10+1): print (n)
+
+PYTHON VERSION: 2.6.6 / 2.7.2 / 3.2.2 PYGAME VERSION: N/A O.S.: Debian / RacyPy / Win7
+
+See how the print command is indented. The indentation is important as this shows Python that the print command is part of the FOR LOOP. Always indent the text as shown in these listings.
+
+It is possible to count in steps too. Try changing the for command as follows: for n in range(0,100+1,5):
+This counts up to a hundred in increments of five. We can even do it in reverse: for n in range(100,0-1,-5):
+(continued over page...)
