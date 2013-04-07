@@ -14,6 +14,10 @@ fontconfig
 ## Apple meta data
 .AppleDouble
 
+## Font files generated on OSX ?
+*.afm
+*.pfb
+
 ## For java
 *.class
 
